@@ -159,8 +159,8 @@ footer {
         row-gap: 4%;
     }
 
-    .livros {
-        max-width: 80%;
+    .produtos .livros {
+        max-width: 90%;
         margin: 0 auto;
     }
 }
