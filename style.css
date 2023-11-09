@@ -158,4 +158,9 @@ footer {
         grid-template-columns: repeat(2, 47.5%);
         row-gap: 4%;
     }
+
+    .livros {
+        max-width: 80%;
+        margin: 0 auto;
+    }
 }
